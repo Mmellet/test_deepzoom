@@ -2,7 +2,7 @@
 
 # examples
 *_files/
-*.dzi
+#*.dzi
 *.dzc
 
 *.py[co]
